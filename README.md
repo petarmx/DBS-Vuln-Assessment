@@ -1,4 +1,4 @@
-# 🗄️ Database Server Vulnerability Assessment  
+# 🔓 Database Server Vulnerability Assessment  
 *E-Commerce Company | 28th June 2025*
 
 ---
