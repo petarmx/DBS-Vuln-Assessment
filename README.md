@@ -24,8 +24,7 @@
 ## 🔍 Scope
 
 - **Focus:** Access controls and security posture of the database server  
-- **Assessment Period:** June 20XX – August 20XX  
-- **Framework:** NIST SP 800-30 Rev. 1
+- **Assessment Period:** June 2025 – August 2025  
 
 ---
 
@@ -49,7 +48,7 @@
 
 ## 🛠️ Approach
 
-- **Risk Selection:** Prioritized threats exploiting public server access (NIST SP 800-30 Rev. 1).  
+- **Risk Selection:** Prioritized threats exploiting public server access.  
 - **Scoring Basis:**  
   - **Likelihood:** Exploit feasibility (public DB = High; internal = Medium)  
   - **Severity:** Financial/operational impact (FAIR model)  
@@ -78,7 +77,7 @@
 
 ### Managerial Controls
 
-- **Establish SLA policies** for critical patching (e.g., ≤48 hours).
+- **Establish SLA policies** for critical patching
 - **Quarterly audits** tracking open/closed vulnerabilities.
 
 ---
@@ -105,6 +104,3 @@
 
 By addressing the public access vulnerability and implementing robust authentication, access controls, and monitoring, the company can significantly reduce its risk of data breaches and operational disruption. Ongoing security assessments and staff training are essential for maintaining a strong security posture.
 
----
-
-*Last updated: 28th June 2025*
