@@ -36,7 +36,7 @@
 
 ---
 
-## ⚠️ Risk Assessment ((Full Report))[https://github.com/petarmx/DBS-Vuln-Assessment/blob/32d7859a32fd1e09a7bbe7c214bc101787e51577/Vulnerability%20assessment%20report.pdf]
+## ⚠️ Risk Assessment [(Full Report)]([https://github.com/petarmx/DBS-Vuln-Assessment/blob/32d7859a32fd1e09a7bbe7c214bc101787e51577/Vulnerability%20assessment%20report.pdf)
 
 | Threat Source         | Threat Event                        | Likelihood | Severity | Risk |
 |----------------------|--------------------------------------|------------|----------|------|
